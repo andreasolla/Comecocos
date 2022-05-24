@@ -23,7 +23,7 @@ Los aspectos más destacables en cuanto a la implementación son los siguientes:
 - Uso de la iluminación, con focos y variando la luz ambiental.
 - Uso de diferentes texturas para el suelo, las paredes y las frutas, así como para las pantallas de inicio y fin. Además, se puede cambiar la textura del avatar variando entre 3 diferentes.
 - Variación del funcionamiento de las teclas en función del modo de juego (primera persona/vista de pájaro).
-- Aplicación de las transformaciones vistas en la materia para el movimiento del avatar, así como para las frutas (giran en su sitio y hacen un movimiento oscilante de arriba-abajo).
+- Aplicación de transformaciones para el movimiento del avatar, así como para las frutas (giran en su sitio y hacen un movimiento oscilante de arriba-abajo).
 - Implementación de las colisiones para los choques con los otros comecocos y la recolección de frutas.
 - Uso de irrKlang para la inclusión de sonidos.
 
